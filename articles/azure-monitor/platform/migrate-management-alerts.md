@@ -14,7 +14,7 @@ ms.subservice: alerts
 [!INCLUDE [updated-for-az](../../../includes/updated-for-az.md)]
 
 > [!WARNING]
-> Alerts on management events will be turned off on or after October 1. Use the directions below to understand if you have these alerts and migrate them if so.
+> Alerts on management events will be turned off on or after October 1, 2017. Use the directions below to understand if you have these alerts and migrate them if so.
 
 ## What is changing
 
